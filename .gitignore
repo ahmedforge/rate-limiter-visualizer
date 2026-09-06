@@ -1,0 +1,10 @@
+# Python bytecode and test caches
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local environments and secrets
+.venv/
+venv/
+.env
