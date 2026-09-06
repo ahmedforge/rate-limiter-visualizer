@@ -9,10 +9,7 @@ departures. Matching request totals do not necessarily mean matching output timi
 
 ## Demo
 
-**Demo GIF coming soon.** Record the terminal and save the result as
-`assets/demo.gif`, then uncomment the image below.
-
-<!-- ![Live comparison of three rate limiters](assets/demo.gif) -->
+![Live comparison of Token Bucket, Sliding Window Log, and Leaky Bucket](assets/demo.gif)
 
 ## Quick start
 
